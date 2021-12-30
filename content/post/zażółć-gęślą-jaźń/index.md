@@ -8,7 +8,7 @@ tags:
   - Malarstwo
   - Grafika
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: Caption1
