@@ -8,7 +8,7 @@ tags:
   - Malarstwo
   - Grafika
 image:
-  filename: featured.jpg
+  filename: wallpaper-1904898.jpg
   focal_point: Smart
   preview_only: false
   caption: Caption1
