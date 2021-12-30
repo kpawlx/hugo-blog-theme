@@ -8,7 +8,7 @@ tags:
   - Malarstwo
   - Grafika
 image:
-  filename: dsc02220.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
   caption: Caption1
