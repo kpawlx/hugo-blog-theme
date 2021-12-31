@@ -2,6 +2,8 @@
 title: Zażółć gęślą jaźń
 subtitle: Podtytuł
 date: 2021-12-30T16:46:08.188Z
+authors:
+- asia
 draft: false
 featured: false
 tags:
